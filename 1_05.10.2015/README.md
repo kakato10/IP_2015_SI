@@ -1,4 +1,4 @@
-Materials from the first introduction to programming exercise
+Materials
 =====================
 * Here you can find a more detailed explaination of the difference between a compiler and interpreter:
 
