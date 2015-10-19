@@ -20,10 +20,14 @@ Example usage
  * Input:
 	```
 	Your age: 20
+
 	US citizen since: 10
+
 	Any commited crimes: 1 
+
 	Mentally stable: 1
 	```
+
 	Output:
 	```
 	You can participate in the elections: false
@@ -31,10 +35,14 @@ Example usage
  * Input:
 	```
 	Your age: 37
+
 	US citizen since: 15
+
 	Any commited crimes: 0 
+
 	Mentally stable: 1
 	```
+
 	Output:
 	```
 	You can participate in the elections: true
@@ -42,10 +50,14 @@ Example usage
  * Input:
 	```
 	Your age: 42
+
 	US citizen since: 42
+
 	Any commited crimes: 0 
+
 	Mentally stable: 0
 	```
+
 	Output:
 	```
 	You can participate in the elections: false
