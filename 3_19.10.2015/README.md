@@ -66,11 +66,11 @@ Example usage
 ##Task 2: Explore the library!
 
 Using fuctions from an appropriate libraries, write a C++ program, which:
- * computes and displays the square of a number 4;
+ * computes and displays the square of 4;
  * computes and displays the square root of 4;
  * finds and displays the absolute value of -4;
- * rounds a rational number and displays the result;
- * finds the biggest element;
+ * rounds 4.23 and 4.67 and displays the results;
+ * finds which number is bigger from 10 and 21;
  * displays the count of seconds from 1 Jan 1970 (Epoch time);
  * displays a random int number between 0 and 42;
  
