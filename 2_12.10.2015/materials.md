@@ -1,7 +1,7 @@
 Materials
 =====================
 
-Great, you've opened the file for additional materials. If you're here, I gues that the things, that we've talked about in class are not enough for you and you're eager to learn something more. In that case the links below should do the work.
+Great, you've opened the file for additional materials. If you're here, I guess that the things, that we've talked about in class are not enough for you and you're eager to learn something more. In that case the links below should do the work.
 
 Testing something.
 
