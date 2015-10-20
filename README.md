@@ -9,3 +9,5 @@ I hope you like thoose two above, because they're going to be very helpful durin
 
 ###PS
 Here's a link to the table with the results from your tasks for homework: https://docs.google.com/spreadsheets/d/1nU5tB7nIJxC743o8qlttX8iCj6WKHsk83I6Q5q_LeWc/edit?usp=sharing
+
+:)
