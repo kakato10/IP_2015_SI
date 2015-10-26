@@ -8,13 +8,11 @@ Write a C++ program that asks the user to enter a number between 2 and 12 includ
 
 ###Example usage
 Input:
-
 ```
 Enter a number between 2 and 12: 6
 ```
 
 Output:
-
 ```
 Dice 1: 5
 Dice 2: 7
@@ -40,13 +38,11 @@ ___
 
 
 Input:
-
 ```
 Enter a number between 2 and 12: 8
 ```
 
 Output:
-
 ```
 Dice 1: 1
 Dice 2: 3
@@ -57,16 +53,17 @@ ___
 
 
 Input:
-
 ```
 Enter a number between 2 and 12: 33
 ```
 
 Output:
-
 ```
 Cheater!!!
 ```
+
+####NB
+Use these massages to interract with the user.
 
 ##Task 2 Simple Calculator
 
