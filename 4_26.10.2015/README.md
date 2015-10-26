@@ -3,7 +3,7 @@ Time to choose (if, if/else, switch)
 Great, you've learned some of the basics of the C++ language, now it's time to see how do we navigate our programs to go in different directions, depending on some kind of conditions. So here are your tasks for this exercise.
 This time, read the tasks careful
 
-##Task 1 Viva Las Vegas!
+##Task 1: Viva Las Vegas!
 Write a C++ program that asks the user to enter a number between 2 and 12 including (validate the input as much as possible). After that the program should throw two dices(get two random numbers between 1 and 6). If the sum of the numbers from the dices is the same as the number that the user has entered, he wins the Jackpot - 2000$, otherwise if the number of the user is divisible to the sum on the dices without remainder, he wins only 200$ and if none of the above is true, well Viva Las Vegas!
 
 ###Example usage
@@ -65,7 +65,7 @@ Cheater!!!
 ####NB
 Use these massages to interract with the user.
 
-##Task 2 Simple Calculator
+##Task 2: Simple Calculator
 
 Write a C++, which asks the user to enter three values for a, operator and b, where a and b are numbers and operator is char. Operator should be one of the following: '+', '-', '/', '*'
 So basically you should display the value of  "a operator b" using switch. If the operator is not one of these four it should display the message "Unknown operator!". The examples are going to make it a bit more understandable.
