@@ -47,5 +47,9 @@ Implement a C++ program which describes the drawing process of an Ulam spiral. T
 	```
 	
 	```
+	Line number 10 (right): (50, 0) --> (300, 0)
+	```
+
+	```
 	LAST LINE DRAWN!!!!
 	```
