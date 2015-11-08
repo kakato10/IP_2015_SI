@@ -6,18 +6,18 @@ It's time to talk about enum and arrays.
 We're using enum type to make our own variable types.
 For example we can make a variable type named color like this:
 ```C++
-enum Color {BLUE=1, RED=2, GREEN, WHITE}
+enum Color {BLUE = 1, RED = 2, GREEN, WHITE}
 ```
 And we can define a variable of type color like this:
 ```C++
-Color my_color = GREEN
-Color second_color = 4 //that means second_color is white
+Color my_color = GREEN;
+Color second_color = 4; //that means second_color is white
 ```
 BLUE, RED and all other colors are called constants of the type Color. Every constant is presented in the memory with it's code (1 for BLUE, 2 for RED and so on).
 If you don't specify the code of a constant it will get the code of the previous constant and will add 1 to it (the code of GREEN is equal to the code of RED + 1)
 So basically if you do the following 
 ```C++
-enum Color {BLUE=3, RED=4, WHITE=2, GREEN, BLACK}
+enum Color {BLUE = 3, RED = 4, WHITE = 2, GREEN, BLACK};
 ```
 you will have two constants with code 3 (BLUE and GREEN) and two with code 4(RED and BLACk).
 So be careful when using them!
@@ -46,11 +46,11 @@ int a[];
 ```
 ```C++
 int a[];
-a = {1,2,5,10};
+a = {1, 2, 5, 10};
 ```
 ```C++
 int a[5];
-a = {1,3,4,5,6};
+a = {1, 3, 4, 5, 6};
 ```
 ```C++
 int a[5], b[7];
