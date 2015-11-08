@@ -6,7 +6,7 @@ It's time to talk about enum and arrays.
 We're using enum type to make our own variable types.
 For example we can make a variable type named color like this:
 ```C++
-enum Color {BLUE = 1, RED = 2, GREEN, WHITE}
+enum Color {BLUE = 1, RED = 2, GREEN, WHITE};
 ```
 And we can define a variable of type color like this:
 ```C++
