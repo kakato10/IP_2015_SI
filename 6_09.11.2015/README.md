@@ -20,6 +20,8 @@ Output:
 10 is in relation with 13
 ```
 
+___
+
 Input:
 ```
 numbers 1: 43
@@ -32,6 +34,8 @@ Output:
 ```
 No relations found.
 ```
+
+___
 
 Input:
 ```
