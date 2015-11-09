@@ -12,11 +12,11 @@ int main()
 		cin >> array[i];
 	}
 
+	//check if the array is an ascending sequence
 	for (int i = 0; i < ARRAY_SIZE - 1; i++) {
 		for (int j = i + 1; j < ARRAY_SIZE; j++) {
-			//check if the array is an ascending sequence
 			if (array[i] > array[j]) {
-				//swaping values that are breaking ascendence
+				//swaping values that are breaking the ascendence
 				int temp = array[i];
 				array[i] = array[j];
 				array[j] = temp;
